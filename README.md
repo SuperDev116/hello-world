@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial
 It now includes steps for Github.
 
 This change is for demonstrating git pull command.
+
+This is a new line for git push branch.
